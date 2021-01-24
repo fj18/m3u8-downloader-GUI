@@ -1,6 +1,6 @@
 # M3U8 Downloader with GUI
 
-Simple downloader with gui
+Simple m3u8 downloader with gui
 
 ## Prerequisites
 
