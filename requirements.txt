@@ -1,0 +1,4 @@
+requests
+gevent
+m3u8
+dearpygui

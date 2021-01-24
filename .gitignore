@@ -1,0 +1,7 @@
+/m3u8-downloader/*.pyc
+/.vscode/
+
+
+/m3u8-downloader/download/
+/m3u8-downloader/*.ts
+m3u8-downloader/__pycache__/m3u8_downloader.cpython-38.pyc
