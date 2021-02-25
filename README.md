@@ -17,6 +17,6 @@ Simple m3u8 downloader with gui
 
 <p>Only suport the m3u8 url from <a href = "https://www.okzy.co/">https://www.okzy.co/</a></p>
 
-## Thanks
+## Acknowledgments
 * [m3u8-downloader](https://github.com/ChenTanyi/m3u8-downloader)
 * [DearPyGui](https://github.com/hoffstadt/DearPyGui)
